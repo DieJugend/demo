@@ -1,0 +1,20 @@
+.top{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    /* width: 1000px;
+    height: 100px;
+    text-align: end; */
+}
+.middle{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.bottom{
+    float: left;
+    /* margin的问题https://blog.csdn.net/Chill_Lyn/article/details/100903408 */
+    /* margin-top: 450px; */
+}
