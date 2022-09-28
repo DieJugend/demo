@@ -13,6 +13,18 @@
     align-items: center;
 }
 
+.left{
+    background-color: pink;
+}
+
+.center{
+    background-color: greenyellow;
+}
+
+.right{
+    background-color: yellow;
+}
+
 .bottom{
     float: left;
     /* margin的问题https://blog.csdn.net/Chill_Lyn/article/details/100903408 */
